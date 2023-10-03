@@ -1,3 +1,3 @@
 # Mythical-Madness
 
-**Mythical Madness** is a PvZ Heroes mod focused on magic, mythics, and monsters! 🔮👻🎃
+**Mythical Madness** is a fan-made PvZ Heroes mod focused on magic and monsters! 🔮👻🎃
